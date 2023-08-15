@@ -60,6 +60,8 @@
     padding: 0 1rem;
     margin: 3rem auto auto;
     display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   .containercard{

@@ -12,7 +12,6 @@ export default function Profile(){
                 height={200}
                 width={200}
                 alt=""
-                style={{marginLeft: "10rem"}}
                 />
                 <h1 className={utilStyles.heading2Xl} style={{marginTop:"auto"}}>Gaurav Khatri</h1>
         </div>
